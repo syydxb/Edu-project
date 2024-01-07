@@ -2,11 +2,11 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <groupId>com.edu</groupId>
-    <artifactId>Edu-project-parent</artifactId>
+    <groupId>com.xuecheng</groupId>
+    <artifactId>xuecheng-plus-parent</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>Edu-project-parent</name>
-    <description>Edu-project-parent</description>
+    <name>xuecheng-plus-parent</name>
+    <description>xuecheng-plus-parent</description>
     <packaging>pom</packaging>
 
     <properties>
