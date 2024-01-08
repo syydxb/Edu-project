@@ -3,20 +3,19 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <parent>
-        <artifactId>Edu-project-content</artifactId>
-        <groupId>com.edu</groupId>
+        <artifactId>xuecheng-plus-content</artifactId>
+        <groupId>com.xuecheng</groupId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
-    <artifactId>Edu-project-content-api</artifactId>
+    <artifactId>xuecheng-plus-content-api</artifactId>
+
 
     <dependencies>
         <dependency>
-            <groupId>com.edu</groupId>
-            <artifactId>Edu-project-content-service</artifactId>
+            <groupId>com.xuecheng</groupId>
+            <artifactId>xuecheng-plus-content-service</artifactId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>
     </dependencies>
-
-
 
 </project>
